@@ -67,6 +67,10 @@ namespace TechJobs.Models
                         // Finding one field in a job that matches is sufficient
                         break;
                     }
+                    else
+                    {
+                        break;
+                    }
                 }
             }
 
